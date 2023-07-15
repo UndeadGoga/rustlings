@@ -1,0 +1,12 @@
+/home/vitaliy/rustlingss/rust/target/release/deps/inotify-0f804bd4e03fde03.rmeta: /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/vitaliy/rustlingss/rust/target/release/deps/libinotify-0f804bd4e03fde03.rlib: /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/vitaliy/rustlingss/rust/target/release/deps/inotify-0f804bd4e03fde03.d: /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs:
+/home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs:
+/home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs:
+/home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs:
+/home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs:
+/home/vitaliy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs:

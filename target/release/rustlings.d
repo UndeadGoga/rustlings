@@ -1,0 +1,1 @@
+/home/vitaliy/rustlingss/rust/target/release/rustlings: /home/vitaliy/rustlingss/rust/src/exercise.rs /home/vitaliy/rustlingss/rust/src/main.rs /home/vitaliy/rustlingss/rust/src/project.rs /home/vitaliy/rustlingss/rust/src/run.rs /home/vitaliy/rustlingss/rust/src/ui.rs /home/vitaliy/rustlingss/rust/src/verify.rs
